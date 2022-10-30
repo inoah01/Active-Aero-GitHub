@@ -6,7 +6,7 @@ This is repo to house Arduino sketches from my Active Aero project
 The idea first started out as just a simple sketch on the back of a notecard I had lying around . . .
 
 
-<img src="https://drive.google.com/uc?export=view&id=1gQ1w7_WQkcvmAoiEFC5VpXWNA8CsBaBV" alt="active aero 'back of napkin' drawing" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1gQ1w7_WQkcvmAoiEFC5VpXWNA8CsBaBV" alt="active aero 'back of napkin' drawing" width="300"/>
 
 To Do:
 - Purchase motor controller with BEC or Buck regulator
