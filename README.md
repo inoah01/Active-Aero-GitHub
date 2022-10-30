@@ -1,7 +1,7 @@
 # Active-Aero
 Arduino sketches from my Active Aero project
 
-This is a spoiler that I am iteratively engineering (and collaboratively designing) for my friend's 1990 Mustang GT that he is building.
+<h1 This is a spoiler that I am iteratively engineering (and collaboratively designing) for my friend's 1990 Mustang GT that he is building. />
 
 The idea first started out as just a simple sketch on the back of a notecard I had lying around . . .
 
