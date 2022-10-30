@@ -5,7 +5,7 @@ This is a spoiler that I am iteratively engineering (and collaboratively designi
 
 The idea first started out as just a simple sketch on the back of a notecard I had lying around . . .
 
-![image](https://drive.google.com/uc?export=view&id=<1gQ1w7_WQkcvmAoiEFC5VpXWNA8CsBaBV>)
+![image](https://drive.google.com/uc?export=view&id=1gQ1w7_WQkcvmAoiEFC5VpXWNA8CsBaBV)
 
 
 To Do:
