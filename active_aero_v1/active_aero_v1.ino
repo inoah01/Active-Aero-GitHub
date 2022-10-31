@@ -73,7 +73,7 @@ void loop() {
   int stroke_pos = map(potentiometer_value, POTENTIOMETER_MIN, POTENTIOMETER_MAX, 0, STROKE_LENGTH);
 
 
-  // Smoothing out accel values with EWMA
+  // Smoothing out accel values with low-pass
   Ax = event.acceleration.x;
   Ax_smooth = (Ax_smooth * alpha + Ax * 1-alpha);
 
