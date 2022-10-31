@@ -17,9 +17,12 @@ Then my friend, Devin Kakuda, an artist studying at The College of Creative Stud
 
 https://user-images.githubusercontent.com/97771304/198908736-8a42a36a-2ea3-432a-81bf-8da81d07ed08.MOV
 
+Where I am at now:
+The arduino sketch for the basic functionality the spoiler has been created. In order to keep costs low during this stage of the design/engineering process, only one actuator is being used. However, the final version will utilize two actuators located on the ends of the air foil. In order to have both actuators working in sync, all that is needed is to initalize the inputs and outputs for the second actuator, and to duplicate some lines of code in the setup and main loops.
 
 To Do:
 - Record higher quality demo videos
 - Purchase motor controller with BEC or Buck regulator
 - Figure out how to incorporate manual override switch with preset modes
-- Faster actuator?
+- Faster actuator? Order 2
+- Gyroscope? Esp. for descending or ascending inclines
