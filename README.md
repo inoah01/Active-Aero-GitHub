@@ -1,7 +1,7 @@
 # Active-Aero
 This is repo to house Arduino sketches from my Active Aero project 
 
-Full status update with videos is in the works, but for now, enjoy some photos :)
+Full status update with videos is in the works (at which point this will move to GitHub Pages), but for now, enjoy some photos :)
 
 ## This is a spoiler that I am iteratively engineering (and collaboratively designing) for my friend's 1990 Ford Mustang GT that he is building.>
 
@@ -14,9 +14,8 @@ Then my friend, Devin Kakuda, an artist studying at The College of Creative Stud
 
 <image src="https://drive.google.com/uc?export=view&id=1_bRO14_mZu-qjMvtMakJpT-s5jc9dnYc" alt="Teal '90 Mustang with active aero spoiler" width='400'/>
 
-<video width="400">
-<src="https://drive.google.com/uc?export=view&id=19yaAaFWSty61mpK395vZ64GALvGSrmrr" type="video/MOV" width="500">
-  </video>
+https://user-images.githubusercontent.com/97771304/198908736-8a42a36a-2ea3-432a-81bf-8da81d07ed08.MOV
+
 
 To Do:
 - Purchase motor controller with BEC or Buck regulator
