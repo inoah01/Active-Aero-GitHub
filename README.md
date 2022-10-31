@@ -3,7 +3,7 @@ This is repo to house Arduino sketches from my Active Aero project
 
 Full status update with videos is in the works (at which point this will move to GitHub Pages), but for now, enjoy some photos :)
 
-## This is a spoiler that I am iteratively engineering (and collaboratively designing) for my friend's 1990 Ford Mustang GT that he is building.>
+### This is a spoiler that I am iteratively engineering (and collaboratively designing) for my friend's 1990 Ford Mustang GT that he is building
 
 The idea first started out as just a simple sketch on the back of a notecard I had lying around . . .
 
