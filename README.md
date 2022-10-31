@@ -14,7 +14,7 @@ Then my friend, Devin Kakuda, an artist studying at The College of Creative Stud
 
 <image src="https://drive.google.com/uc?export=view&id=1_bRO14_mZu-qjMvtMakJpT-s5jc9dnYc" alt="Teal '90 Mustang with active aero spoiler" width='400'/>
 
-<video width="400" controls>
+<video width="400">
 <src="https://drive.google.com/uc?export=view&id=19yaAaFWSty61mpK395vZ64GALvGSrmrr" type="video/MOV" width="500">
   </video>
 
