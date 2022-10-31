@@ -2,7 +2,7 @@
 (This is repo to house Arduino sketches from my Active Aero project)
 
 
-### This is a spoiler that I am iteratively engineering (and collaboratively designing) for my friend's 1991 Ford Mustang LX that he is building. He is designing the bodykit for the car as well as swapping in the 5.0 V8 from the 1990 Mustang GT.
+### This is a spoiler that I am iteratively engineering (and collaboratively designing) for my friend's 1991 Ford Mustang LX that he is building. He designed the bodykit for the car himself and has already begun swapping in the 5.0 V8 from the 1990 Mustang GT.
 *A full status update with more videos is in the works (at which point this will move to GitHub Pages), but for now, enjoy some photos and a quick clip :)*
 
 
