@@ -2,7 +2,7 @@
 (This is repo to house Arduino sketches from my Active Aero project)
 
 
-### This is a spoiler that I am iteratively engineering (and collaboratively designing) for my friend's 1991 Ford Mustang LX that he is building. He is designing the bodykit for the car as well as swapping in the 5.0 V8 from the 1990 Mustang GT.
+### This is a spoiler that I am iteratively engineering (and collaboratively designing) for my friend's 1991 Ford Mustang LX that he is building. He designed the bodykit for the car himself and has already begun swapping in the 5.0 V8 from the 1990 Mustang GT.
 *A full status update with more videos is in the works (at which point this will move to GitHub Pages), but for now, enjoy some photos and a quick clip :)*
 
 
@@ -17,9 +17,12 @@ Then my friend, Devin Kakuda, an artist studying at The College of Creative Stud
 
 https://user-images.githubusercontent.com/97771304/198908736-8a42a36a-2ea3-432a-81bf-8da81d07ed08.MOV
 
+Where I am at now:<br>
+<p>The arduino sketch for the basic functionality the spoiler has been created. In order to keep costs low during this stage of the design/engineering process, only one actuator is being used. However, the final version will utilize two actuators located on the ends of the air foil. In order to have both actuators working in sync, all that is needed is to initalize the inputs and outputs for the second actuator, and to duplicate some lines of code in the setup and main loops.</p>
 
 To Do:
 - Record higher quality demo videos
 - Purchase motor controller with BEC or Buck regulator
 - Figure out how to incorporate manual override switch with preset modes
-- Faster actuator?
+- Faster actuator? Order 2
+- Gyroscope? Esp. for descending or ascending inclines
