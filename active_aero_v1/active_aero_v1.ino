@@ -36,7 +36,7 @@ int POTENTIOMETER_MIN = 46;
 int POTENTIOMETER_MAX = 539;
 int STROKE_LENGTH = 305;
 
-// Variables for EWMA (smoothing) of accel:
+// Variables for WMA (smoothing) of accel:
 int alpha = .96;
 float Ax;
 float Ax_smooth;
